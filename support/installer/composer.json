@@ -11,6 +11,7 @@
 		"class": "Heroku\\Buildpack\\PHP\\ComposerInstallerPlugin"
 	},
 	"require": {
+		"ext-imagick": "*",
 		"composer-plugin-api": "^1.0.0"
 	}
 }
